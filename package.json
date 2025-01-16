@@ -21,6 +21,7 @@
     "http-status": "^2.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.4",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.9",
     "ts-node-dev": "^2.0.0",
     "zod": "^3.24.1"

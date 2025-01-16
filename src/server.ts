@@ -1,6 +1,7 @@
 import mongoose from "mongoose"
 import app from "./app"
 import { Server } from "http"
+import 'dotenv/config';
 
 const dotenv = require('dotenv')
 dotenv.config()
@@ -27,3 +28,4 @@ async function main() {
 
 
 main()
+
