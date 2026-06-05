@@ -1,3 +1,10 @@
 dist
 node_modules
 config.bat
+
+# Environment variables
+.env*.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
